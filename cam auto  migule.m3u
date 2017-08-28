@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0,cam 1
+rtsp://admin:060856@10.0.0.9:554/PSIA/streaming/channels/101
+#EXTINF:0,cam 2
+rtsp://admin:060856@10.0.0.9:554/PSIA/streaming/channels/201
+#EXTINF:0,cam 3
+rtsp://admin:060856@10.0.0.9:554/PSIA/streaming/channels/301
+#EXTINF:0,cam 4
+rtsp://admin:060856@10.0.0.9:554/PSIA/streaming/channels/401
+#EXTINF:0,cam 5
+rtsp://admin:060856@10.0.0.9:554/PSIA/streaming/channels/501
+#EXTINF:0,cam 6
+rtsp://admin:060856@10.0.0.9:554/PSIA/streaming/channels/601
+#EXTINF:0,cam 7
+rtsp://admin:060856@10.0.0.9:554/PSIA/streaming/channels/701
+#EXTINF:0,cam 8
+rtsp://admin:060856@10.0.0.9:554/PSIA/streaming/channels/801
+#EXTINF:0,cam 9
+rtsp://admin:060856@10.0.0.9:554/PSIA/streaming/channels/101

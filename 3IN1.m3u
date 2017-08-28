@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:0,NBA
+http://tmg001.jl.serv.net.mx/tmg.m3u8?stream=nba-tv&expired=f5e7e855b467c0b55a58e4019fdf224e&token=0926fa554cc6d64e2ab796986f8d452b
+#EXTINF:0,WWE NETWORK(4)
+Mlb *
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1200K/1200_slide.m3u8
+MLB NETWORK(1)
+#EXTINF:0,rtmp://198.144.153.140:443/flash<playpath>19822?MTUwMzE3NzAwMjsxNTFjZjZhMWZhZWI5NzhiN2JhYjczYjM3ZmU1OTg0OA== <swfUrl>http://static3.sawlive.tv/player.swf <pageUrl>http://www3.sawlive.tv/embed/watch/ljMGRlZGI5MThlMDkyNzQ4YjUwNjA0Njo0ZDU0NTU3NzRkN2E0NTMzNGU3YTQxNzc0ZDY3M2QzZA__/bGFnODg0MzphOTUzMmZmNWMxM2I0MzcyNTMxZmI0ZTlkOGNlNzZlNDo5YWFiYmM2Nz
+MLB NETWORK(2)
+#EXTINF:0,rtmp://50.7.28.162/flash<playpath>19823?MTUwMzE3NzI3MTthNGE2NjA0ZDA4MjFiODdlNjY0MDliMjU2ZGQwNTczYg== <swfUrl>http://static3.sawlive.tv/player.swf <pageUrl>http://www3.sawlive.tv/embed/watch/UyNDljNzk1MjhjNTRkNDAxZmYyNjkzOjRkNTQ1NTc3NGQ3YTQ1MzM0ZTdhNDkzMzRkNDEzZDNk/bGFnMXozOjdjZjg5ODIwYzRkMDM3ZThkZGIyNDJhNTQwMjdkZjZlOjg2YzQwMDE5OW
+MLB NETWORK(3)New York Mets
+#EXTINF:0,rtmp://50.97.82.24/flash<playpath>19643?MTUwMzE3NzU0NTs4OTdjZjg0YzZmN2U0MDRiZDY4NTg2NTZmMjcwYTg1MA== <swfUrl>http://static3.sawlive.tv/player.swf <pageUrl>http://www3.sawlive.tv/embed/watch/FmODJmMDkwYmZmODc5Y2I3NTNmZTQxOTo0ZDU0NTU3NzRkN2E0NTMzNGU3YTU1MzA0ZTUxM2QzZA__/bGFnMXozYTo1YTc1MzU2NjY3M2I0ODRiZjM4ZDQ3ZjgwMmU0MzhiZjpiNDU3Y2QwZW
+MLB NETWORK(4)New York Yankees
+#EXTINF:0,rtmp://198.255.96.42/flash<playpath>19644?MTUwMzE3NzY0Nzs5NzkzYWQ5NTlkMjYzODBlYjA4NmQ1NzQxZmYyNTVkYw== <swfUrl>http://static3.sawlive.tv/player.swf <pageUrl>http://www3.sawlive.tv/embed/watch/JmZWZiNzZlYTUwZmYwMGQ2ZmRhMWRlYTo0ZDU0NTU3NzRkN2E0NTMzNGU3YTU5MzA0ZTc3M2QzZA__/bGFnbjdzYTo1YTdkYjZlNTE2ODAyMDBhMGE0ZjU4ZjM0MTAwNmRlYjoxODVhODRjYj
+WWE NETWORK(1)
+#EXTINF:0,rtmp://198.255.96.50/flash<playpath>19561?MTUwMzE3Nzg0ODsxYjM5N2NjNGRiMzVhMGIwNWVkNDc4YmVhMDhhZDBlZA== <swfUrl>http://static3.sawlive.tv/player.swf <pageUrl>http://www3.sawlive.tv/embed/watch/gwN2IwYjc1MTA5ZTIyZTNhNmJiZmNjZjQ5OjRkNTQ1NTc3NGQ3YTQ1MzM0ZTdhNjczMDRmNDEzZDNk/bGFnZ2xpdmUxOjk3ZGNiNTFiNGU4OGYzODhiYmUwOTliMGJlMWRlNjMzOjEzYzVlYj
+WWE NETWORK(2)
+#EXTINF:0,http://193.124.178.41/cavscampeon/248002.m3u8?wmsAuthSign2=d2l6OA==&token=c2VydmVyX3RpbWU9MTUwMzE3ODQyMiZoYXNoX3ZhbHVlPWFxS0w4U2xTOEcybDZMZzYxWENOM3c9PSZ2YWxpZG1pbnV0ZXM9OTA=
+WWE NETWORK(3)
+#EXTINF:0, UFC NETWORK (1)
+MLB NETWORK
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/02.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/07.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/12.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/17.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/22.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/27.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/32.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/37.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/42.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/47.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/52.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/45/57.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/02.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/07.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/12.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/17.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/22.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/27.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/32.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/37.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/42.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/47.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/52.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/46/57.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/47/02.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/47/07.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/46/22.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/47/12.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/2400K/21/47/17.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/2400K/21/47/22.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/2400K/21/47/27.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/47/27.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/47/32.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/47/37.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/47/42.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/47/47.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/47/52.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/47/57.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/48/02.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/48/07.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/48/12.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/48/17.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/48/22.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/2400K/21/48/27.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/2400K/21/48/32.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/2400K/21/48/37.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/48/42.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/48/47.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/48/52.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/48/57.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/49/02.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/49/07.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/49/12.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/49/17.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/49/22.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/49/27.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/49/32.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1200K/21/49/37.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1200K/21/49/42.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1200K/21/49/47.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/49/52.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/1800K/21/49/57.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/2400K/21/49/57.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/2400K/21/50/02.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/07.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/12.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/17.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/22.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/27.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/32.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/37.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/42.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/47.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/52.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/50/57.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/51/02.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/51/07.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/51/12.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/51/17.ts
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/51/22.ts
+#EXTINF:0,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20170818_1503073363633/3000K/21/51/27.ts
+

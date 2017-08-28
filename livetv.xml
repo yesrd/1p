@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>18</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>18</endIndex>
+	<item sdImg="http://roku.cherritech.com/images/revelation.jpg" hdImg="http://roku.cherritech.com/images/revelation.jpg">
+		<title>Revelation TV</title>
+		<contentId>10001</contentId>
+		<contentType>Live</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1000</streamBitrate>
+			<streamUrl>http://revelationtv.ashttp6.visionip.tv/live/b2b-revelation_tv-revelation_tv-live-25f-16x9_3/playlist.m3u8?USER=Revelation_TV</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Live</genres>
+		
+		</item>	
+		<item sdImg="http://roku.cherritech.com/images/cinemobita.JPG" hdImg="http://roku.cherritech.com/images/cinemobita.JPG">
+		<title>Cinemobita</title>
+		<contentId>10002</contentId>
+		<contentType>Live</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>64000</streamBitrate>
+			<streamUrl>http://stream.cherritech.com/cherri-ms/mystream/playlist.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Live</genres>
+	
+	</item>	
+		<item sdImg="http://roku.cherritech.com/images/church.jpg" hdImg="http://roku.cherritech.com/images/church.jpg">
+		<title>Cherri(Demo)</title>
+		<contentId>10003</contentId>
+		<contentType>Live</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://202.89.111.253:1935/live/mystream/playlist.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Live</genres>
+	
+	</item>	
+	<item sdImg="http://roku.cherritech.com/images/vasanthtv.jpg" hdImg="http://roku.cherritech.com/images/vasanthtv.jpg">
+		<title>Vasanth Tv</title>
+		<contentId>10004</contentId>
+		<contentType>Live</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://202.89.110.122:1935/live/mystream/playlist.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Live</genres>
+	
+	</item>	
+	<item sdImg="http://roku.cherritech.com/images/loveworldplus.jpg" hdImg="http://roku.cherritech.com/images/loveworldplus.jpg">
+		<title>Love World Plus</title>
+		<contentId>10005</contentId>
+		<contentType>Live</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://entrega.flashwebtown.com:1935/lovewordplus/myStream.sdp/playlist.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Live</genres>
+	
+	</item>	
+	<item sdImg="http://roku.cherritech.com/images/loveworldtv.jpg" hdImg="http://roku.cherritech.com/images/loveworldtv.jpg">
+		<title>Love World Tv</title>
+		<contentId>10006</contentId>
+		<contentType>Live</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://154.obj.netromedia.net/LoveWorldtv/LoveWorldtv/playlist.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Live</genres>
+	
+	</item>	
+	<item sdImg="http://roku.cherritech.com/images/daystar.jpg" hdImg="http://roku.cherritech.com/images/daystar.jpg">
+		<title>Daystar Tv</title>
+		<contentId>10007</contentId>
+		<contentType>Live</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>hls</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1000</streamBitrate>
+			<streamUrl>http://stream.daystarcdn.net/edge/_definst_/smil:mobile.smil/playlist.m3u8</streamUrl>
+		</media>
+		<synopsis></synopsis>
+		<genres>Live</genres>
+	
+	</item>	
+        <item sdImg="http://roku.cherritech.com/images/angeltv.jpg" hdImg="http://roku.cherritech.com/images/angeltv.jpg">
+		<title>Angel TV</title>
+                <contentId>10008</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://203.126.247.9/live/angeltv/apple/playlist.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+                
+        </item>
+        <item sdImg="http://roku.cherritech.com/images/doers.jpg" hdImg="http://roku.cherritech.com/images/doers.jpg">
+        <title>Doers Tv</title>
+                <contentId>10009</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://live-h1.frontlayer.net/cva7319/smil:live.smil/live.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+                
+        </item>
+        <item sdImg="http://roku.cherritech.com/images/wcctv.jpg" hdImg="http://roku.cherritech.com/images/wcctv.jpg">
+		<title>WCC TV</title>
+                <contentId>10010</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>HD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://kitiosdevices-i.akamaihd.net/hls/live/201429/WescottChristianCntr/live1200/playlist.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+                
+        </item>
+        <item sdImg="http://roku.cherritech.com/images/australian.jpg" hdImg="http://roku.cherritech.com/images/australian.jpg">
+		<title>Australian Christian TV</title>
+                <contentId>10011</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://fss24.streamhoster.com/lv_anfgctv2/auschristiantv/playlist.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+                
+        </item>
+        <item sdImg="http://roku.cherritech.com/images/shalomtv.jpg" hdImg="http://roku.cherritech.com/images/shalomtv.jpg">
+		<title>Shalom TV</title>
+                <contentId>10012</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://livestream.5centscdn.com/shalomtvlive/761d83d2df5db2812ff0aee298c7061d.sdp/playlist.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+               
+        </item>
+        <item sdImg="http://roku.cherritech.com/images/bible.jpg" hdImg="http://roku.cherritech.com/images/bible.jpg">
+		<title>Bible Discovery TV</title>
+                <contentId>10013</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://fss28.streamhoster.com/lv_rod_tvf1/broadcast1/playlist.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+        </item>
+        <item sdImg="http://roku.cherritech.com/images/ewtn.jpg" hdImg="http://roku.cherritech.com/images/ewtn.jpg">
+		<title>EWTN</title>
+                <contentId>10014</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://ewtn-i.akamaihd.net/hls/live/200516/us/vbr_450/en/05/wbmd008.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+               
+        </item>
+        <item sdImg="http://roku.cherritech.com/images/miraclechannel.jpg" hdImg="http://roku.cherritech.com/images/miraclechannel.jpg">
+		<title>Miracle Channel</title>
+                <contentId>10015</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://miraclechannel.ios.internapcdn.net/miraclechannel/live_1/miraclechannel/miraclechannel.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+              
+        </item>
+       
+       
+        <item sdImg="http://roku.cherritech.com/images/smile.jpg" hdImg="http://roku.cherritech.com/images/smile.jpg">
+		<title>Smile of a Child TV</title>
+                <contentId>10016</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://mediaplatform.trinetsolutions.com:1935/tbn/smil:soac.smil/playlist.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+                
+        </item>
+        <item sdImg="http://roku.cherritech.com/images/almavision.jpg" hdImg="http://roku.cherritech.com/images/almavision.jpg">
+		<title>Almavision</title>
+                <contentId>10017</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://encoder.iviplanet.com:1935/iosplaylist?application/Almavision.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+            
+        </item>
+        
+      
+       
+        <item sdImg="http://roku.cherritech.com/images/cyc.jpg" hdImg="http://roku.cherritech.com/images/cyc.jpg">
+		<title>Christian Youth Channel</title>
+                <contentId>10018</contentId>
+                <contentType>Live</contentType>
+                <contentQuality>SD</contentQuality>
+                <streamFormat>hls</streamFormat>
+                <media>
+                        <streamQuality>SD</streamQuality>
+                        <streamBitrate>1500</streamBitrate>
+                        <streamUrl>http://cycnow.az-streamingserver.com:3333/live/cyc1/playlist.m3u8</streamUrl>
+                </media>
+                <synopsis></synopsis>
+                <genres>Live</genres>
+               
+        </item>
+        
+        
+</feed>
