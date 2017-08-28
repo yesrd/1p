@@ -1,0 +1,316 @@
+#EXTM3U 
+#EXTINF:-1, PPV BOXING
+http://cdn.widestream.io:8081/wideedge/orwl6sc/l_2692393_10208544_1183.ts?nimblesessionid=14776391&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE3IDM6MzI6NTYgQU0maGFzaF92YWx1ZT14cVNJYk1qSUlSVVJVWVgwOEIwYW5nPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1, PPV BOXING2
+http://cdn.widestream.io:8081/wideedge/orwl6sc/chunks.m3u8?nimblesessionid=14776391&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE3IDM6MzI6NTYgQU0maGFzaF92YWx1ZT14cVNJYk1qSUlSVVJVWVgwOEIwYW5nPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1, PPV BOXING3
+http://93.174.93.84:8081/live/wwe-hq/chunks.m3u8?nimblesessionid=94356802&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE3IDEyOjA0OjAxIEFNJmhhc2hfdmFsdWU9VlB1R3pTa2RPNG5ZQzNLU09UeFBWQT09JnZhbGlkbWludXRlcz02MCZpZD0xMDguMTYyLjIxMi4xNTcmc3RybV9sZW49MTE=
+#EXTINF:-1, PPV BOXING4
+http://148.255.171.113:8081/live/wideedge/orwl6sc/chunks.m3u8?nimblesessionid=7680855&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE3IDE6MDI6MDYgQU0maGFzaF92YWx1ZT1hNFdsMHpFZkhKbnNjUzFsSWNLbndnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1,PPV  WWE
+http://93.174.93.84:8081/live/wwe-hq/chunks.m3u8?nimblesessionid=94356802&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDE3IDEyOjA0OjAxIEFNJmhhc2hfdmFsdWU9VlB1R3pTa2RPNG5ZQzNLU09UeFBWQT09JnZhbGlkbWludXRlcz02MCZpZD0xMDguMTYyLjIxMi4xNTcmc3RybV9sZW49MTE=
+
+#EXTINF:-1, TV COTUI Rep. Dom."tvg-logo="https://4.bp.blogspot.com/-2dYGPxsg5-0/WVEf46Sug5I/AAAAAAAAC34/QpBS2ZXIzLAqzYHgP6Fm2BLnfXk0C57IACLcBGAs/s1600/54.png"
+http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
+#EXTINF:-1,"CERTV Canal 4 R. Dominicana"tvg-logo="http://www.tricom.net/sites/default/files/logos/CERTVRTVD.png"
+http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=2134113356
+#EXTINF:-1,"Telemicro 5 R. Dominicana" tvg-logo="http://2.bp.blogspot.com/-5wEeOAbOnhI/VLQMoyH67_I/AAAAAAAAlTg/kcyYLr1JmHg/s1600/0001.png"
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+#EXTINF:-1,"Antena Latina 7 R. Dominicana" tvg-logo="http://www.antena7.com.do/android-chrome-192x192.png"
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8
+#EXTINF:-1,"Color Vision 9 R. Dominicana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Color_vision.png"
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/chunklist_w928369526.m3u8
+#EXTINF:-1,"Telesistemas 11 R. Dominicana" tvg-logo="https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png"
+http://mek6.mekstream.com/telesistema/live/playlist.m3u8
+#EXTINF:-1,"bonao-tv-canal-12/(R. Dominicana 2)"tvg-logo="http://vivotvhd.com/img/cha/1971.gif"
+http://ss9.domint.net:1988/btv_str/bonao/chunklist_w782883157.m3u8
+#EXTINF:-1,"TeleCentro 13 R. Dominicana"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png"
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+#EXTINF:-1,"Digital 15 R. Dominicana"tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png"
+http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8
+#EXTINF:-1,"TELEUNIVERSO R. Dominicana"tvg-logo="http://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png"
+http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+#EXTINF:-1,"CDN 37 R. Dominicana"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/NCDN.png"
+http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+#EXTINF:-1,"CDN Sportmax R. Dominicana"tvg-logo="http://ldf.com.do/wp-content/uploads/2015/02/Logo-CDN-SportsMax2.png"
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:-1,"Super Canal 33 R. Dominicana"tvg-logo="http://www.supercanal.com/wp-content/uploads/2016/04/logo.png"
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+#EXTINF:-1,"Canal25(R. Dominicana)"tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal25-Logo-300x300.jpg"
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTINF:-1,"REDE NACIONAL DE NOTICIAS RNN(R. Dominicana 2)"tvg-logo="http://vivotvhd.com/img/cha/1971.gif"
+http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1,"La Voz de Maria (R. Dominicana)"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png"
+http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2086852978.m3u8
+
+#EXTINF:-1,---Mexico---
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DuocXVzOtYU/WYsfAfjPMkI/AAAAAAAAN2w/eTRxRn4h8PECjOc2ZATY8G-X0hh0_f3UgCLcBGAs/s1600/caracoltv.jpg" group-title="América do Sul", Caracol
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?www.tecnotv.info?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html
+#EXTINF:-1 ,AZTECA 7
+http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TV Más
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:-1,TV Azteca
+http://cdn2.shurs.xyz/verliga/9/playlist.m3u8
+#EXTINF:-1,Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+#EXTINF:-1,Canal Antiestrés
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,V Más TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+#EXTINF:-1,Unicanal
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+#EXTINF:-1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1296_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Canal 5
+http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TDN
+http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TDN 2
+http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,6 telemundo
+http://edge5.telesport.pw/live/telemundo/index.m3u8
+#EXTINF:-1,LATINO:Univision
+http://cdnh8.iblups.com/hls/TzfgMY2JVi.m3u8
+#EXTINF:-1,La:DW Latinoamérica "tvg-logo="http://www.ipuntotv.com/IMAGES/DW-espanol.jpg"
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,Español:Atreseries "tvg-logo="http://imagenes.lainformacion.com/2015/11/10/television/Logo-atresseries_860924294_41319407_626x472.jpg"
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,---Deportes---
+#EXTINF:-1 ,ESPN
+http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,ESPN 2
+http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,ESPN 3
+http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,Fox Sports
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,Fox Sports 2
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,Fox Sports 3
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,Fox Sports 2 Argentina
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,Claro Sports
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1,---Infantil---
+
+#EXTINF:-1,Disney Channel
+http://23.237.22.2:8080/lstream4/104/14/654681644949e1a53be8493e2112723e/312.flv
+#EXTINF:-1,Discovery Kids
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Discovery Kids 2
+http://190.57.234.164/V1/3/1.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Cartoon Network 2
+http://23.237.22.2:8080/lstream4/106/14/654681644949e1a53be8493e2112723e/320.flv
+#EXTINF:-1 ,Disney Jr
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Disney Junior 2
+http://190.57.234.164/V9/1/1.m3u8
+#EXTINF:-1 ,Disney XD
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Disney XD 2
+http://23.237.22.2:8080/lstream4/107/14/654681644949e1a53be8493e2112723e/322.flv
+#EXTINF:-1 ,Nick
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Nick 2
+http://23.237.22.2:8080/lstream4/105/14/654681644949e1a53be8493e2112723e/317.flv
+#EXTINF:-1,Nick 3
+http://190.57.234.164/V3/3/1.m3u8
+#EXTINF:-1 ,Nick JR
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Nick Jr 2
+http://190.57.234.164/V6/2/1.m3u8
+#EXTINF:-1,Nick Toons
+http://190.57.234.164/V6/1/1.m3u8
+#EXTINF:-1,Tooncast
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/328.flv
+#EXTINF:-1,Boomerang
+http://23.237.22.2:8080/lstream4/440/14/654681644949e1a53be8493e2112723e/324.flv
+#EXTINF:-1,Tiin
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/325.flv
+#EXTINF:-1,Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+
+#EXTINF:-1,---Premiun---
+#EXTINF:-1,A&E HD
+http://wowza2.mysoltv.com:1992/Latino_A&E_HD/index.m3u8
+#EXTINF:-1,FOX HD
+http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
+#EXTINF:-1,Cinemax
+http://23.237.22.2:8080/lstream4/401/10/787f871133435e47a2e14ab464387153/481.flv
+#EXTINF:-1,Cinecanal
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/430.flv
+#EXTINF:-1,TNT
+http://23.237.22.2:8080/lstream4/77/10/787f871133435e47a2e14ab464387153/435.flv
+#EXTINF:-1,TNT Series
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Space
+http://23.237.22.2:8080/lstream4/402/10/787f871133435e47a2e14ab464387153/445.flv
+#EXTINF:-1,Paramount Channel
+http://190.57.234.164/V6/8/1.m3u8
+#EXTINF:-1,Studio Universal
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Universal Channel
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,SyFy
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,AXN
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,Warner Channel
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,Fox
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,FOX Life
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,NatGeo
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 ,E! Entertainment
+http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,HBO
+http://23.237.22.2:8080/lstream4/450/12/5bac2479610bead6bf7939891285f5ff/401.m3u8
+http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe625/5900bc02970b1071e240b0cb/_/hbo_latino_hd.flv
+#EXTINF:-1,HBO 2
+http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe649/5900bc02970b1071e240b0cb/_/hbo_2.flv
+#EXTINF:-1,HBO Plus
+http://190.57.234.164/V9/5/1.m3u8
+#EXTINF:-1,HBO Family
+http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe624/5900bc02970b1071e240b0cb/_/hbo_family.flv
+#EXTINF:-1,History
+https://live14.userapi.com/637609/live/uK7viRRAfwg_cXce/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://23.237.22.2:8080/lstream4/92/16/654681644949e1a53be8493e2112723e/371.flv
+#EXTINF:-1,Discovery Theater
+http://190.57.234.164/V1/5/1.m3u8
+#EXTINF:-1,Discovery Civilization
+http://190.57.234.164/V0/2/1.m3u8
+#EXTINF:-1,Discovery Science
+http://190.57.234.164/V0/3/1.m3u8
+#EXTINF:-1,Discovery World
+http://190.57.234.164/V1/4/1.m3u8
+#EXTINF:-1,Discovery Turbo
+http://190.57.234.164/V0/1/1.m3u8
+#EXTINF:-1,National Geographic
+http://23.237.22.2:8080/lstream4/429/16/654681644949e1a53be8493e2112723e/377.flv
+#EXTINF:-1,Nat Geo Wild
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/355.flv
+#EXTINF:-1,Animal Planet
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
+#EXTINF:-1,Animal Planet USA
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TLC
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/386.flv
+#EXTINF:-1,Warner Channel 2
+http://23.237.22.2:8080/lstream4/400/10/787f871133435e47a2e14ab464387153/205.flv
+#EXTINF:-1,FX 2
+http://23.237.22.2:8080/lstream4/398/10/787f871133435e47a2e14ab464387153/209.flv
+#EXTINF:-1,Universal Channel 2
+http://190.57.234.164/V9/4/1.m3u8
+#EXTINF:-1,Canal Sony 2
+http://23.237.22.2:8080/lstream4/396/10/787f871133435e47a2e14ab464387153/203.flv
+#EXTINF:-1,AXN 2
+http://23.237.22.2:8080/lstream4/404/10/787f871133435e47a2e14ab464387153/213.flv
+#EXTINF:-1,A&E 2
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/211.flv
+#EXTINF:-1,Comedy Central 2
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/217.flv
+#EXTINF:-1,TBS 2
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
+#EXTINF:-1,Distrito Comedia 2
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/272.flv
+#EXTINF:-1,TNT Series 2
+http://23.237.22.2:8080/lstream4/469/10/787f871133435e47a2e14ab464387153/266.flv
+#EXTINF:-1,Fox Life 2
+http://23.237.22.2:8080/lstream4/436/10/787f871133435e47a2e14ab464387153/271.flv
+#EXTINF:-1,Mundo Fox 2 
+http://190.57.234.164/V0/4/1.m3u8
+#EXTINF:-1,MTV 2
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/726.flv
+#EXTINF:-1,E! 2
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/255.flv
+
+#EXTINF:-1,---Msica---
+#EXTINF:-1,Radio ONE TV
+http://190.57.234.165/V2/2/1.m3u8
+#EXTINF:-1,Rock&Pop
+http://190.57.234.165/V2/3/1.m3u8
+#EXTINF:-1,Power
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w668249396.m3u8
+#EXTINF:-1,Cool
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1,Rock Nacional TV
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+#EXTINF:-1,Djing
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Mi Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:-1,Quiero Musica
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,VH1
+http://23.237.22.2:8080/lstream4/90/11/654681644949e1a53be8493e2112723e/703.flv
+#EXTINF:-1,VH1 Mega Hits
+http://190.57.234.164/V6/5/1.m3u8
+#EXTINF:-1,VH1 Classics
+http://190.57.234.164/V0/6/1.m3u8
+#EXTINF:-1,MTV Dance
+http://190.57.234.164/V6/4/1.m3u8
+#EXTINF:-1,MTV Hits
+http://190.57.234.164/V6/3/1.m3u8
+#EXTINF:-1,MTV Live
+http://190.57.234.164/V6/7/1.m3u8
+#EXTINF:-1,MTV España
+http-referrer=http://tumarcador.xyz
+#EXTINF:-1,Ritmoson
+http://23.237.22.2:8080/lstream4/578/11/654681644949e1a53be8493e2112723e/731.flv
+#EXTINF:-1,Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,1HD Music
+http://80.250.191.10:1935/live/hlsstream343/chunklist_w69624695.m3u8
+#EXTINF:-1,Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
+#EXTINF:-1,Telemúsica
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+#EXTINF:-1,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:-1,Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+
+#EXTINF:-1,---24/7---
+#EXTINF:-1,Los Simpsons 24hs
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Los Simpsons Random MP4
+http://stream.latino-webtv.com/series/simpsons.mp4
+#EXTINF:-1,Gravity Falls Random MP4
+http://stream.latino-webtv.com/series/gravityfalls.mp4
+#EXTINF:-1,Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+Lista de canales en latino
+https://g67.github.io/G67-OFICIAL/G67CNL.m3u
+
+Lista de películas 
+https://g67.github.io/G67-OFICIAL/G67PLS.m3u
+
